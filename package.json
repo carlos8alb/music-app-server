@@ -18,7 +18,7 @@
     "git": "^0.1.5",
     "jwt-simple": "^0.5.1",
     "moment": "^2.20.1",
-    "mongoose": "^4.13.9",
+    "mongoose": "^5.13.15",
     "mongoose-pagination": "^1.0.0",
     "nodemon": "^1.14.9"
   }
